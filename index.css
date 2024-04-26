@@ -1,0 +1,27 @@
+header {
+  text-align: center;
+}
+.my-computer {
+  width: 100%;
+  height: auto;
+  border: 1px solid yellow;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgb(190, 187, 187);
+  color: aliceblue;
+}
+#input_monitor {
+  width: 100%;
+  height: 50px;
+  border: 1px solid tomato;
+  padding-top: 10px;
+}
+.col {
+  height: 50px;
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(190, 187, 187);
+  border: 1px solid white;
+  color: azure;
+  font-weight: bolder;
+}
